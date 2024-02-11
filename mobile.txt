@@ -14,3 +14,11 @@ Third User
 Branch: Tester 
 
 git student51
+
+Branch: Tester 
+
+git reset Tester
+
+git 1
+git 2
+

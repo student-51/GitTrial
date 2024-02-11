@@ -8,3 +8,7 @@ NoCopy
 copy folder
 
 Biswajit-10
+Student 51
+Third User
+
+git reset

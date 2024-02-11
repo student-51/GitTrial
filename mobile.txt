@@ -4,3 +4,4 @@ mobile:mi note 6 pro
 NoCopy Folder
 Copy Folder
 
+NoCopy
